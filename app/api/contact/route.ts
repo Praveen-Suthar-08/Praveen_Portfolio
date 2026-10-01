@@ -81,26 +81,10 @@ export async function POST(req: NextRequest) {
       message,
     };
 
-    // Helper function to enforce timeout on promises
-    const withTimeout = <T>(promise: Promise<T>, ms: number, fallbackName: string) => {
-      let timeoutId: NodeJS.Timeout;
-      const timeoutPromise = new Promise<never>((_, reject) => {
-        timeoutId = setTimeout(() => reject(new Error(`${fallbackName} timed out after ${ms}ms`)), ms);
-      });
-      return Promise.race([promise, timeoutPromise]).finally(() => clearTimeout(timeoutId));
-    };
-
-    // 1. Database attempt (timeout after 1s)
-    const dbPromise = withTimeout(
-      prisma.contact.create({ data: newMessage }),
-      1000,
-      "Database write"
-    ).catch((dbError) => {
-      console.warn("⚠️ Database write failed or timeout:", dbError.message || dbError);
+    // Non-blocking database attempt (runs in background so HTTP response is instant)
+    prisma.contact.create({ data: newMessage }).catch((dbError) => {
+      console.warn("⚠️ Database write notice (non-blocking):", dbError.message || dbError);
     });
-
-    // Run primary delivery mechanisms concurrently to save time
-    await Promise.allSettled([dbPromise]);
 
     // 3. If SMTP environment variables are set, run nodemailer separately in background (no await)
     if (process.env.EMAIL_USER && process.env.EMAIL_PASSWORD) {

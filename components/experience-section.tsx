@@ -61,6 +61,14 @@ export default function ExperienceSection() {
 
   const achievements: Experience[] = [
     {
+      title: "Top 12 Finalist – National Level AI Hackathon 2026",
+      company: "National Level AI Hackathon (Online)",
+      period: "2026",
+      description:
+        "Ranked among the Top 12 teams nationally in a 24-hour hackathon for innovators, developers, and problem-solvers to build autonomous, intelligent, and real-world agentic AI solutions.",
+      type: "achievement",
+    },
+    {
       title: "Gemini Certified Student – University",
       company: "Google for Education / Google AI",
       period: "Jan 2026 – Jan 2029",
@@ -90,6 +98,42 @@ export default function ExperienceSection() {
 
   const certifications: certification[] = [
     {
+      title: "Artificial Intelligence Primer Certification",
+      issuer: "Infosys",
+      period: "Issued Sep 2026",
+      image: "/certificates/Artificial Intelligence Primer Certification_page-0001.jpg",
+    },
+    {
+      title: "Introduction to Deep Learning",
+      issuer: "Infosys",
+      period: "Issued Sep 2026",
+      image: "/certificates/Introduction to Deep Learning_page-0001.jpg",
+    },
+    {
+      title: "AI Skills Passport",
+      issuer: "EY",
+      period: "Issued Jul 2026",
+      image: "/certificates/ey-ai-skills-passport.jpg",
+    },
+    {
+      title: "Introduction to Prompt Engineering with GitHub Copilot",
+      issuer: "Microsoft",
+      period: "Issued Nov 2025",
+      image: "/certificates/Microsoft_Intro_to_prompt_engg_w_Github_copilotpdf_page-0001.jpg",
+    },
+    {
+      title: "Generative models for developers",
+      issuer: "Infosys",
+      period: "Issued Sep 2026",
+      image: "/certificates/Generative models for developers_page-0001.jpg",
+    },
+    {
+      title: "Deep Learning for Developers",
+      issuer: "Infosys",
+      period: "Issued Sep 2026",
+      image: "/certificates/Deep Learning for Developers_page-0001.jpg",
+    },
+    {
       title: "Agentic AI Saksham Program",
       issuer: "Capabl",
       period: "2026",
@@ -108,21 +152,9 @@ export default function ExperienceSection() {
     },
     {
       title: "Web Development with AI Tools",
-      issuer: "Edunet Foundation",
+      issuer: "SkillUp - SimpliLearn",
       period: "2025–26",
       image: "/certificates/Web_dev_with_cgpt_simplilearn_page-0001.jpg",
-    },
-    {
-      title: "AI Skills Passport",
-      issuer: "EY and Microsoft",
-      period: "2026",
-      image: "/certificates/ey-ai-skills-passport.jpg",
-    },
-    {
-      title: "Introduction to Prompt Engineering with GitHub Copilot",
-      issuer: "Microsoft",
-      period: "2025",
-      image: "/certificates/github-copilot.jpg",
     },
     {
       title: "AI-Driven Coding and Project Management with Git",

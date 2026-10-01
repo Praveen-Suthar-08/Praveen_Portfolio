@@ -10,13 +10,11 @@ import IntroAnimation from "@/components/intro-screen";
 import { useIntroAnimation } from "@/hooks/use-intro-animation";
 import { allProjects, portfolioProfile } from "@/lib/portfolio-data";
 import { getSiteUrl } from "@/lib/site-config";
-import dynamic from "next/dynamic";
-
-const AboutSection = dynamic(() => import("@/components/about-section"), { ssr: true });
-const SkillsSection = dynamic(() => import("@/components/skills-section"), { ssr: true });
-const ProjectsSection = dynamic(() => import("@/components/projects-section"), { ssr: true });
-const ExperienceSection = dynamic(() => import("@/components/experience-section"), { ssr: true });
-const ContactSection = dynamic(() => import("@/components/contact-section"), { ssr: true });
+import AboutSection from "@/components/about-section";
+import SkillsSection from "@/components/skills-section";
+import ProjectsSection from "@/components/projects-section";
+import ExperienceSection from "@/components/experience-section";
+import ContactSection from "@/components/contact-section";
 
 export default function Home() {
   const { showIntro, handleAnimationComplete } = useIntroAnimation();

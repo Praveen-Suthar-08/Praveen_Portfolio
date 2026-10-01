@@ -17,19 +17,24 @@ Knowledge Base:
   3. Primary & Secondary Schooling (Nursery and 1st - 10th) from Narayana Primary & Higher School (Till 2021).
 - Summary: I’m a Computer Science Engineering student and Full Stack Developer passionate about building scalable, intelligent, and user-focused web applications. I work with technologies like MERN, Django, React, Next.js, PostgreSQL, and MongoDB, while exploring AI and Generative AI to create smarter software solutions. I enjoy turning ideas into real-world products—from AI-powered platforms and real-time collaboration systems to scalable marketplace applications. I focus on writing clean, efficient code, building reliable APIs, and creating seamless user experiences. I’m always learning, experimenting with new technologies, and looking for opportunities to build innovative products that solve meaningful problems.
 - Certifications & Honors:
-  1. Agentic AI Saksham Program (Capabl, 2026)
-  2. AWS Solutions Architecture Job Simulation (Forage, 2026) [Certificate: /certificates/aws-solutions-architecture.jpg]
-  3. Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate (Oracle, 2025) [Certificate: /certificates/oracle-ai-foundations.jpg]
-  4. Web Development with AI Tools (Edunet Foundation, 2025–26) [Certificate: /certificates/Web_dev_with_cgpt_simplilearn_page-0001.jpg]
-  5. AI Skills Passport (EY and Microsoft, 2026) [Certificate: /certificates/ey-ai-skills-passport.jpg]
-  6. Introduction to Prompt Engineering with GitHub Copilot (Microsoft, 2025) [Certificate: /certificates/Microsoft_Intro_to_prompt_engg_w_Github_copilotpdf_page-0001.jpg]
-  7. AI-Driven Coding and Project Management with Git (Parvam, 2026)
-  8. AI agent development on Azure (Microsoft, 2025) [Certificate: /certificates/azure-ai-agent.jpg]
-  9. Foundation course on Green Skills and Artificial Intelligence (Edunet Foundation, 2025) [Certificate: /certificates/green-skills-ai.jpg]
+  1. Artificial Intelligence Primer Certification (Infosys, Issued Sep 2026) [Certificate: /certificates/Artificial Intelligence Primer Certification_page-0001.jpg]
+  2. Introduction to Deep Learning (Infosys, Issued Sep 2026) [Certificate: /certificates/Introduction to Deep Learning_page-0001.jpg]
+  3. AI Skills Passport (EY, Issued Jul 2026) [Certificate: /certificates/ey-ai-skills-passport.jpg]
+  4. Introduction to Prompt Engineering with GitHub Copilot (Microsoft, Issued Nov 2025) [Certificate: /certificates/Microsoft_Intro_to_prompt_engg_w_Github_copilotpdf_page-0001.jpg]
+  5. Generative models for developers (Infosys, Issued Sep 2026) [Certificate: /certificates/Generative models for developers_page-0001.jpg]
+  6. Deep Learning for Developers (Infosys, Issued Sep 2026) [Certificate: /certificates/Deep Learning for Developers_page-0001.jpg]
+  7. Agentic AI Saksham Program (Capabl, 2026)
+  8. AWS Solutions Architecture Job Simulation (Forage, 2026) [Certificate: /certificates/aws-solutions-architecture.jpg]
+  9. Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate (Oracle, 2025) [Certificate: /certificates/oracle-ai-foundations.jpg]
+  10. Web Development with AI Tools (SkillUp - SimpliLearn, 2025–26) [Certificate: /certificates/Web_dev_with_cgpt_simplilearn_page-0001.jpg]
+  11. AI-Driven Coding and Project Management with Git (Parvam, 2026)
+  12. AI agent development on Azure (Microsoft, 2025) [Certificate: /certificates/azure-ai-agent.jpg]
+  13. Foundation course on Green Skills and Artificial Intelligence (Edunet Foundation, 2025) [Certificate: /certificates/green-skills-ai.jpg]
 - Achievements:
-  1. Gemini Certified Student – University (Google / Google AI): Awarded on 31/01/2026 (valid through 31/01/2029) for demonstrated knowledge and core competencies in Google AI and Gemini models.
-  2. Virtual: PromptWars (Hack2skill / H2S): Participated and secured Rank #242 out of 48,682 competitors in AI Code Submission with a 90.15 score.
-  3. Highest CGPA in Computer Science Engineering (VTU): Secured 9.5 as the highest CGPA under Visvesvaraya Technological University (VTU) curriculum.
+  1. Top 12 Finalist – National Level AI Hackathon 2026: Ranked among top 12 teams nationally in a 24-hour hackathon building autonomous, agentic AI solutions.
+  2. Gemini Certified Student – University (Google / Google AI): Awarded on 31/01/2026 (valid through 31/01/2029) for demonstrated knowledge and core competencies in Google AI and Gemini models.
+  3. Virtual: PromptWars (Hack2skill / H2S): Participated and secured Rank #242 out of 48,682 competitors in AI Code Submission with a 90.15 score.
+  4. Highest CGPA in Computer Science Engineering (VTU): Secured 9.5 as the highest CGPA under Visvesvaraya Technological University (VTU) curriculum.
 - Core Technical Skills:
   - Languages: JavaScript (ES6+), Python, Java, C, SQL
   - Frontend: React.js (React 19 & 18), Next.js (App Router), Vue.js, Tailwind CSS (v3 & v4), HTML5 & Modern CSS3
@@ -38,22 +43,24 @@ Knowledge Base:
   - Databases: PostgreSQL, MongoDB, MySQL, Firebase Firestore
   - Cloud & DevOps: AWS, Firebase, Git & GitHub, Docker, Linux & Bash, Vercel, Postman
 - Featured Projects:
-  1. ReLoop: AI-Driven Donation and Redistribution Platform (SaaS) [2026 (Working)]: AI-powered SaaS platform using React.js, FastAPI, PostgreSQL to connect surplus resources with individuals and communities in need. Implemented intelligent resource matching and demand prediction using Scikit-learn and Pandas, improving distribution efficiency by 35% and reducing resource wastage. Scalable backend APIs, responsive UI, secure auth with AWS and Firebase cloud deployment. (Repo: https://github.com/Praveen-Suthar-08/ReLoop)
-  2. Stranger Collaboration: AI-Driven Workspace & Pair Programming: AI-driven engineering workspace & pair programming platform with real-time WebSockets synchronization, intelligent talent matching, GitHub activity feeds, and 2FA authentication (React, Vite, Node.js, MongoDB, Socket.io, Tailwind v4). (Repo: https://github.com/Praveen-Suthar-08/Stranger_Collaboration_Platform.git)
-  3. ErrandX MarketPlace: Campus Microtask & Service Platform: Campus microtask and service marketplace with student domain authentication, task lifecycle bidding, and urgency/bounty filtering (React, Node.js, MongoDB, REST APIs, JWT). (Repo: https://github.com/Praveen-Suthar-08/ErrandX_market_place.git)
-  4. AI Resume Analyzer: ATS Scoring & Career Optimization SaaS: AI SaaS platform for ATS scoring against job descriptions, skill gap diagnostics, side-by-side version comparison, and interactive AI career coaching (Next.js, Tailwind, OpenAI GPT, PostgreSQL). (Repo: https://github.com/Praveen-Suthar-08/AI-Resume-Analyzer)
-  5. AI Customer Support Agent (LangGraph & LangChain): Autonomous, multi-turn customer support system built with LangGraph, LangChain, and Python featuring dynamic tool calling for order tracking, refund processing, and human escalation workflows. (Repo: https://github.com/Praveen-Suthar-08/Ai_Agent_customer_support_agent_langgraph)
-  6. Smart Parking Slot Manager (PSM): Enterprise-grade parking management system built with Flask and Vanilla JS (Chart.js & Tailwind CSS) running decoupled microservice portals for real-time slot management, digital QR check-in/out, offline cash drawer reconciliation, and dynamic occupancy price surging. (Repo: https://github.com/Praveen-Suthar-08/Parking_Slot_Manager.git)
-  7. Hospital Management System (Web-Based System): Role-based healthcare web application for managing patients, doctors, and appointments with secure access control, real-time scheduling, and automated billing workflows improving operational efficiency by 25% (React, Node.js, MongoDB, Tailwind).
-  8. Employee Management System (Web Application): CRUD-based web system with modular architecture and optimized database design, implementing secure authentication and reducing manual management effort by 40% (React, Node.js, MongoDB, JWT).
+  1. AI Agriculture Assistant (Krishi Sahayak): Enterprise multimodal AI advisory platform empowering farmers with real-time crop disease diagnosis, Whisper voice input, Orpheus TTS audio output, and Groq prompt prefix caching. (Repo: https://github.com/Praveen-Suthar-08/AI-Agriculture-Assistant.git)
+  2. ApexAuto AI Marketplace: Intelligent car marketplace with Google Gemini AI computer vision search, test drive reservation ledger, ArcJet rate limiting, and Clerk RBAC. (Repo: https://github.com/Praveen-Suthar-08/ApexAuto-AI-Intelligent-Car-Marketplace.git)
+  3. Cognitive RAG Platform: Next-generation Agentic Retrieval-Augmented Generation platform pairing Google Gemini 3072-dim embeddings with Qdrant Vector Cloud and LangGraph stateful graph reasoning. (Repo: https://github.com/Praveen-Suthar-08/Cognitive-RAG-AI-Blog-Intelligence.git)
+  4. CGAN for CIFAR-10: Class-Conditional GAN synthesizing 10 class categories with WGAN-GP objective, FP16 mixed precision, Streamlit Web Studio, and FastAPI serving. (Repo: https://github.com/Praveen-Suthar-08/-CGAN-for-CIFAR-10.git)
+  5. ReLoop: AI-Driven Donation and Redistribution Platform (SaaS): AI-powered SaaS platform connecting surplus resources with communities using intelligent resource matching and demand prediction. (Repo: https://github.com/Praveen-Suthar-08/ReLoop---AI-Powered-Circular-Donation-Platform.git)
+  6. Amazona E-Commerce Platform: Full-stack MERN e-commerce with category filters, shopping cart, PayPal payments, multi-seller portals, and real-time Socket.io support chat. (Repo: https://github.com/Praveen-Suthar-08/Amazona-ECommerce-Website-Clone-of-Amazon-.git)
+  7. Stranger Collaboration Platform: AI-driven engineering workspace & pair programming platform with real-time WebSockets synchronization. (Repo: https://github.com/Praveen-Suthar-08/Stranger_Collaboration_Platform.git)
+  8. AI Resume Analyzer: AI SaaS platform for ATS scoring against job descriptions, skill gap diagnostics, and side-by-side version comparison. (Repo: https://github.com/Praveen-Suthar-08/AI-powered-Resume-Analyzer.git)
 
 Instructions:
-1. Respond courteously, accurately, and enthusiastically about Praveen Suthar's achievements, skills, and portfolio projects.
-2. If asked something beyond your knowledge base, politely state that you do not have that specific information and suggest contacting Praveen at praveensksuthar@gmail.com.
-3. Maintain a professional, articulate tone suitable for recruiters, engineering managers, and collaborators.`;
+1. STRICT CONSTRAINT: Answer ONLY the exact question asked. Be direct, concise, and focused. Do NOT include unrequested sections, extra project lists, or unrelated background.
+2. If asked about education, college, or CGPA, provide ONLY the educational information.
+3. If asked about a specific project, provide ONLY that project's details and link.
+4. If asked about contact info, provide ONLY the contact channels.
+5. If asked something beyond your knowledge base, state that politely and provide praveensksuthar@gmail.com.
+6. Maintain a professional, articulate tone suitable for recruiters and engineering managers.`;
 
 function extractTextFromLyzrResponse(data: any) {
-  // The Lyzr agent response shape may vary; try common locations
   if (!data) return null;
   if (typeof data === "string") return data;
   if (data.reply) return data.reply;
@@ -95,76 +102,172 @@ function createSimulatedStreamResponse(text: string) {
 }
 
 function generateFallbackResponse(query: string): string {
-  const q = query.toLowerCase();
+  const q = query.toLowerCase().trim();
 
-  if (q.includes("hi") || q.includes("hello") || q.includes("hey") || q.includes("who are you")) {
-    return "Hello! I'm Praveen Suthar's AI portfolio assistant. I can tell you about Praveen's software projects (like ReLoop, Amazona E-Commerce, MediSuite AI Agent), technical skills, education, certifications, and contact details. What would you like to know?";
+  const hasWord = (word: string) => new RegExp(`\\b${word}\\b`, "i").test(q);
+  const hasAnyWord = (...words: string[]) => words.some((w) => hasWord(w));
+
+  // 0. Portfolio Specific Meta Questions ("when was this portfolio made?", "who built this website?")
+  if (
+    q.includes("portfolio") ||
+    q.includes("website") ||
+    q.includes("site")
+  ) {
+    if (q.includes("when") || q.includes("date") || q.includes("year") || q.includes("created") || q.includes("made") || q.includes("built")) {
+      return `🌐 **About This Portfolio**:
+- **Built & Published**: Designed and built by Praveen Suthar in **2026**.
+- **Tech Stack**: Next.js 15 (App Router), TypeScript, Tailwind CSS, Three.js dynamic graphics, and custom AI Chatbot engine.
+- **Source Code**: https://github.com/Praveen-Suthar-08`;
+    }
   }
 
-  if (q.includes("project") || q.includes("build") || q.includes("built") || q.includes("work")) {
-    return `Here are some of Praveen's key projects:
-- **ReLoop**: AI-Driven Donation & Redistribution Platform connecting surplus resources with communities using smart matching and demand forecasting.
-- **Amazona E-Commerce**: Full-stack Amazon clone (MERN) with category filters, shopping cart, PayPal payments, multi-seller portals, and real-time Socket.io support chat.
-- **Stranger Collaboration**: Real-time collaborative workspace and pair programming platform with WebSocket code synchronization.
-- **AI Resume Analyzer**: AI SaaS for ATS resume scoring, career gap diagnostics, and interactive coaching.
-- **MediSuite AI Agent**: Autonomous medical coding (ICD-10 & CPT-4) and automated insurance claim generation using LLMs and OCR.
-- **Parking Slot Manager (PSM)**: Smart parking manager with decoupled microservices, QR ticket check-ins, and dynamic surge pricing.
+  // 1. CGPA / Marks / Grades specifically
+  if ((hasAnyWord("cgpa", "marks", "grades", "score", "percentage") || q.includes("gpa")) && !q.includes("project")) {
+    return `📊 **Praveen Suthar's Academic Performance**:
+- **Current CGPA**: **8.95 / 10.0** in B.E. Computer Science & Engineering.
+- **VTU Milestone**: Achieved a peak **9.5 SGPA** under Visvesvaraya Technological University (VTU).`;
+  }
 
-You can also browse all of them in detail on the /projects page!`;
+  // 2. Specific College / University Inquiry
+  if ((hasAnyWord("college", "university", "vtu", "degree") || q.includes("city engineering")) && !q.includes("school")) {
+    return `🏫 **College & Degree**:
+- **Degree**: Bachelor of Engineering (B.E.) in Computer Science & Engineering (2023 – Expected 2027)
+- **Institution**: City Engineering College, Bangalore (Affiliated with VTU)
+- **Academic Record**: **8.95 CGPA** (9.5 SGPA peak under VTU)
+- **Core Focus**: Data Structures & Algorithms, DBMS, Computer Networks, Operating Systems, Web Technologies, and Software Engineering.`;
+  }
+
+  // 3. School / Pre-University specifically
+  if (hasAnyWord("school", "12th", "10th", "puc", "schooling") || q.includes("pu college") || q.includes("narayana")) {
+    return `🏫 **Schooling & Pre-University**:
+- **Pre-University (11th & 12th)**: Narayana PU College (2021 – 2023, PCMC Stream)
+- **Primary & Secondary Schooling**: Narayana Primary & Higher School (Completed 2021)`;
+  }
+
+  // 4. General Educational Background
+  if (hasAnyWord("education", "educational", "academic", "academics", "qualification", "qualifications", "study", "studied", "background")) {
+    return `🎓 **Praveen Suthar's Educational Background**:
+
+1. **Bachelor of Engineering (B.E.) in Computer Science & Engineering**
+   - 🏫 **Institution**: City Engineering College, Bangalore (VTU)
+   - 📅 **Period**: 2023 – Expected 2027
+   - 📊 **Performance**: **8.95 CGPA** (9.5 SGPA peak milestone)
+   - 💻 **Core Subjects**: Data Structures & Algorithms, DBMS, Computer Networks, Operating Systems, Web Technologies, Software Engineering.
+
+2. **Pre-University Education (11th & 12th)**
+   - 🏫 **Institution**: Narayana PU College (2021 – 2023, PCMC)
+
+3. **Schooling (1st – 10th)**
+   - 🏫 **Institution**: Narayana Primary & Higher School (Till 2021)`;
+  }
+
+  // 5. Greetings & Persona (Use word boundary to avoid "this", "which", "history" triggering greetings)
+  if (hasAnyWord("hi", "hello", "hey", "greetings", "sup") || q === "hi" || q === "hello" || q.includes("who are you") || q.includes("who is praveen")) {
+    return "Hello! 👋 I'm Praveen Suthar's AI portfolio assistant. I can answer questions about Praveen's **educational background**, **software projects**, **technical skills**, **certifications**, and **contact details**. What would you like to know?";
+  }
+
+  // 6. Specific Projects (Returns ONLY that project)
+  if (q.includes("agri") || q.includes("krishi") || q.includes("farmer") || q.includes("crop")) {
+    return `🌾 **AI Agriculture Assistant (Krishi Sahayak)**:
+- **Multimodal Interaction**: Supports text, Whisper voice input, and Orpheus TTS spoken response playback.
+- **Crop Disease Diagnosis**: Leaf disease and pest infestation recognition using Llama-4 Vision multimodal models.
+- **Stateful Memory & Token Caching**: Redis memory store with local failover and dynamic prompt prefix caching (50% cost/latency discount on Groq).
+- 🔗 **GitHub Repo**: https://github.com/Praveen-Suthar-08/AI-Agriculture-Assistant.git`;
+  }
+
+  if (q.includes("apex") || q.includes("car") || q.includes("marketplace") || q.includes("auto")) {
+    return `🚗 **ApexAuto AI — Intelligent Car Marketplace**:
+- **AI Visual Search**: Upload any car photo for Google Gemini Vision to automatically detect Make, Body Class, and Color.
+- **Test Drive Ledger**: Real-time conflict-free reservation management calendar.
+- **ArcJet & Clerk**: Cyber attack defense, rate limiting, and role-based access control.
+- 🔗 **GitHub Repo**: https://github.com/Praveen-Suthar-08/ApexAuto-AI-Intelligent-Car-Marketplace.git`;
+  }
+
+  if (q.includes("rag") || q.includes("blog") || q.includes("qdrant") || q.includes("langgraph") || q.includes("vector")) {
+    return `🧠 **Cognitive RAG — AI Blog Intelligence Platform**:
+- **LangGraph Stateful Reasoning**: Zero-hallucination agent state machine for multi-turn technical Q&A.
+- **DOM Cleansing Engine**: HTML noise stripping and sentence-aware 1200-char boundary splitting with overlap.
+- **Qdrant Vector Cloud**: Dedicated vector collection per URL eliminating cross-memory pollution.
+- 🔗 **GitHub Repo**: https://github.com/Praveen-Suthar-08/Cognitive-RAG-AI-Blog-Intelligence.git`;
+  }
+
+  if (q.includes("cgan") || q.includes("cifar") || q.includes("gan") || q.includes("image synthesis")) {
+    return `🎨 **Class-Conditional GAN (CGAN) for CIFAR-10**:
+- **WGAN-GP Objective**: Conditional Minimax & Wasserstein GAN with 1-Lipschitz gradient penalty.
+- **FP16 Mixed Precision**: $2\\times$ training acceleration on Tensor Core GPUs.
+- **Multi-Interface**: Streamlit Web Studio, OpenAPI REST microservices, and TFLite model export.
+- 🔗 **GitHub Repo**: https://github.com/Praveen-Suthar-08/-CGAN-for-CIFAR-10.git`;
+  }
+
+  if (q.includes("reloop") || q.includes("donation") || q.includes("circular")) {
+    return `🔄 **ReLoop: Circular Donation & Redistribution SaaS**:
+- **Smart Resource Matching**: ML demand prediction improving distribution efficiency by 35%.
+- **Cloud Infrastructure**: Scalable REST APIs with React.js, FastAPI, PostgreSQL, AWS, and Firebase.
+- 🔗 **GitHub Repo**: https://github.com/Praveen-Suthar-08/ReLoop---AI-Powered-Circular-Donation-Platform.git`;
   }
 
   if (q.includes("amazona") || q.includes("amazon") || q.includes("ecommerce") || q.includes("e-commerce")) {
-    return `**Amazona E-Commerce Platform (Amazon Clone)** is a modern full-stack MERN web application featuring:
-- Interactive product catalog, top-seller carousel, and live ratings.
-- Real-time shopping cart and subtotal calculator.
-- Multi-step checkout wizard with PayPal/Stripe sandbox integration.
-- Real-time customer support chat powered by Socket.io.
-- Multi-seller marketplace management and admin sales analytics dashboards.
-GitHub: https://github.com/Praveen-Suthar-08/Amazona-ECommerce-Website-Clone-of-Amazon-.git`;
+    return `🛒 **Amazona E-Commerce Platform (Amazon Clone)**:
+- **Full-Stack MERN**: React, Node.js, Express, MongoDB, and JWT authentication.
+- **Shopping & Checkout**: PayPal/Stripe sandbox integration, top-seller carousel, and live ratings.
+- **Real-Time Support**: Instant live customer messaging powered by Socket.io.
+- 🔗 **GitHub Repo**: https://github.com/Praveen-Suthar-08/Amazona-ECommerce-Website-Clone-of-Amazon-.git`;
   }
 
-  if (q.includes("medisuite") || q.includes("medical") || q.includes("claim") || q.includes("icd")) {
-    return `**MediSuite AI Agent** is an intelligent medical coding and autonomous claim generation system:
-- Automates patient intake and clinical documentation analysis.
-- Maps medical procedures & diagnoses to standardized ICD-10 and CPT-4 codes using a hybrid matching engine (Levenshtein + LLM validation).
-- Generates polished CMS-1500 style insurance claim PDFs with ReportLab.
-- Dual desktop GUI (Tkinter) and terminal CLI interface with pluggable OpenAI and Mistral AI models.
-GitHub: https://github.com/Praveen-Suthar-08/MediSuite-AI_Agent.git`;
+  // 7. Projects Overview (Only if general project query)
+  if (hasAnyWord("project", "projects", "work", "apps", "applications") || q.includes("what did you build") || q.includes("what have you built")) {
+    return `🚀 **Praveen's Key Featured Projects**:
+- **AI Agriculture Assistant (Krishi Sahayak)**: Multimodal crop advisory with Llama-4 Vision & Whisper voice.
+- **ApexAuto AI Marketplace**: Gemini Vision car photo search & test drive booking calendar.
+- **Cognitive RAG Platform**: LangGraph stateful RAG engine with Qdrant Vector Cloud.
+- **CGAN for CIFAR-10**: Class-conditional GAN image synthesis with WGAN-GP.
+- **ReLoop**: AI-driven circular resource donation SaaS platform.
+- **Amazona E-Commerce**: Full-stack MERN Amazon clone with PayPal & Socket.io chat.
+
+💡 Visit **/projects** to explore live demos and source code!`;
   }
 
-  if (q.includes("skill") || q.includes("tech") || q.includes("stack") || q.includes("language")) {
-    return `Praveen is skilled across the full stack:
+  // 8. Technical Skills
+  if (hasAnyWord("skill", "skills", "tech", "stack", "language", "languages", "framework", "frameworks", "tools")) {
+    return `⚡ **Praveen Suthar's Technical Stack**:
 - **Languages**: JavaScript (ES6+), Python, Java, C, SQL
-- **Frontend**: React (React 19 & 18), Next.js (App Router), Tailwind CSS (v3 & v4), HTML5/CSS3
-- **Creative Web**: Three.js, React Three Fiber, Drei
-- **Backend**: Node.js, FastAPI, Django, Hono, WebSockets, Socket.io
-- **Databases**: PostgreSQL, MongoDB, MySQL, Firebase Firestore
-- **Cloud & Tools**: AWS, Docker, Git/GitHub, Linux, Vercel, Postman`;
+- **Frontend**: React.js, Next.js, Vue.js, Tailwind CSS, HTML5/CSS3
+- **3D & Creative**: Three.js, React Three Fiber, Drei
+- **Backend & DB**: Node.js, FastAPI, Django, Hono, WebSockets, PostgreSQL, MongoDB, MySQL
+- **Cloud & DevOps**: AWS, Docker, Git/GitHub, Linux, Vercel`;
   }
 
-  if (q.includes("education") || q.includes("college") || q.includes("cgpa") || q.includes("degree")) {
-    return `Praveen is pursuing a **Bachelor of Engineering (B.E.) in Computer Science and Engineering** at City Engineering College, Bangalore (2023 - Expected 2027) with a stellar **CGPA of 8.95 / 10.0** (achieving a 9.5 VTU milestone). Prior to engineering, he completed Pre-University education at Narayana PU College.`;
+  // 9. Certifications & Achievements
+  if (hasAnyWord("certification", "certifications", "certificate", "certificates", "achievement", "achievements", "award", "awards", "hackathon", "honor", "honors")) {
+    return `🏆 **Highlights & Certifications**:
+- 🥇 **Top 12 Finalist** – National Level AI Hackathon (2026)
+- 📜 **Artificial Intelligence Primer Certification** – Infosys (2026)
+- 📜 **Introduction to Deep Learning** – Infosys (2026)
+- 📜 **AI Skills Passport** – EY (2026)
+- 📜 **Generative models for developers** – Infosys (2026)
+- 📜 **Deep Learning for Developers** – Infosys (2026)
+- 📜 **Introduction to Prompt Engineering with GitHub Copilot** – Microsoft (2025)
+- 🎖️ **Gemini Certified Student** – Google AI`;
   }
 
-  if (q.includes("contact") || q.includes("email") || q.includes("reach") || q.includes("hire") || q.includes("message")) {
-    return `You can get in touch with Praveen directly:
-- **Email**: praveensksuthar@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/praveen-suthar-554b12333
-- **GitHub**: https://github.com/Praveen-Suthar-08
-- Or use the "Say Hi, Don't Be Shy" contact form right on this page!`;
+  // 10. Contact Details
+  if (hasAnyWord("contact", "email", "reach", "hire", "linkedin", "github", "phone", "location")) {
+    return `📫 **Contact Information**:
+- ✉️ **Email**: praveensksuthar@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/praveen-suthar-554b12333
+- 🐙 **GitHub**: https://github.com/Praveen-Suthar-08
+- 📍 **Location**: Bangalore, Karnataka, India`;
   }
 
-  if (q.includes("certif") || q.includes("achievement") || q.includes("award")) {
-    return `Praveen has earned prominent credentials and honors including:
-- **Gemini Certified Student** – Google AI
-- **Agentic AI Saksham Program** – Capabl (2026)
-- **AWS Solutions Architecture Job Simulation** – Forage (2026)
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-- **Rank #242 out of 48,682 competitors** in Virtual: PromptWars (Hack2skill)
-- **Introduction to Prompt Engineering with GitHub Copilot** – Microsoft`;
+  // 11. Experience & Availability
+  if (hasAnyWord("experience", "job", "available", "availability", "internship", "role")) {
+    return `💻 **Current Status & Experience**:
+Praveen is a B.E. Computer Science student at City Engineering College, Bangalore, actively building AI SaaS platforms and web applications.
+🟢 **Availability**: Available for software engineering internships, freelance projects, and AI development roles! Email: praveensksuthar@gmail.com`;
   }
 
-  return `Praveen Suthar is a Full Stack and Creative Developer from Bangalore, India, experienced in MERN, Next.js, Python, AI agents, and real-time platforms. Feel free to ask about his projects (ReLoop, Amazona, MediSuite), skills, education, or reach out at praveensksuthar@gmail.com!`;
+  // Direct accurate fallback when query doesn't match any specific predefined pattern
+  return `I don't have specific details on "${query}", but Praveen Suthar is a Full-Stack Web & Creative Developer (B.E. Computer Science, CGPA: 8.95). You can ask me about his **education**, **projects**, **technical skills**, **certifications**, or **contact info**!`;
 }
 
 let ratelimit: Ratelimit | null = null;
@@ -176,7 +279,6 @@ function getRateLimiter() {
   const token = process.env.UPSTASH_REDIS_REST_TOKEN;
 
   if (!url || !token) {
-    console.warn("⚠️ Upstash Redis env vars missing. Chatbot rate limiting is disabled.");
     return null;
   }
 
@@ -192,6 +294,16 @@ function getRateLimiter() {
   });
 
   return ratelimit;
+}
+
+async function fetchWithTimeout(url: string, options: RequestInit = {}, timeoutMs = 5000) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    return await fetch(url, { ...options, signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
 }
 
 export async function POST(req: Request) {
@@ -217,8 +329,15 @@ export async function POST(req: Request) {
       }
     }
 
-    const body = await req.json();
-    const { message, history } = body || {};
+    let message = "";
+    let history: any[] = [];
+    try {
+      const body = await req.json();
+      message = body?.message || "";
+      history = body?.history || [];
+    } catch {
+      return NextResponse.json({ error: "Invalid JSON body" }, { status: 400 });
+    }
 
     if (!message) {
       return NextResponse.json({ error: "Missing message" }, { status: 400 });
@@ -239,58 +358,36 @@ export async function POST(req: Request) {
         message,
       };
 
-      const res = await fetch(
-        "https://agent-prod.studio.lyzr.ai/v3/inference/chat/",
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            "x-api-key": LYZR_KEY,
+      try {
+        const res = await fetchWithTimeout(
+          "https://agent-prod.studio.lyzr.ai/v3/inference/chat/",
+          {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              "x-api-key": LYZR_KEY,
+            },
+            body: JSON.stringify(payload),
           },
-          body: JSON.stringify(payload),
+          1500
+        );
+
+        if (res.ok) {
+          const data = await res.json();
+          const assistant = extractTextFromLyzrResponse(data) || "";
+          return createSimulatedStreamResponse(assistant);
         }
-      );
-
-      if (!res.ok) {
-        console.warn("LYZR upstream error, falling back to local engine");
-        const fallbackReply = generateFallbackResponse(message);
-        return createSimulatedStreamResponse(fallbackReply);
+      } catch {
+        console.warn("LYZR upstream timeout/error, falling back to local engine");
       }
-
-      const data = await res.json();
-      const assistant = extractTextFromLyzrResponse(data) || "";
-
-      // Stream the static response back chunk by chunk to simulate streaming
-      const encoder = new TextEncoder();
-      const stream = new ReadableStream({
-        async start(controller) {
-          // Send words with small delays to mimic streaming
-          const words = assistant.split(" ");
-          for (let i = 0; i < words.length; i++) {
-            const word = words[i] + (i === words.length - 1 ? "" : " ");
-            controller.enqueue(encoder.encode(word));
-            await new Promise((resolve) => setTimeout(resolve, 5));
-          }
-          controller.close();
-        },
-      });
-
-      return new Response(stream, {
-        headers: {
-          "Content-Type": "text/plain; charset=utf-8",
-          "Cache-Control": "no-cache, no-transform",
-          "Connection": "keep-alive",
-        },
-      });
     }
 
     // Support Google Gemini API if GEMINI_API_KEY is provided
     const GEMINI_KEY = process.env.GEMINI_API_KEY;
     if (GEMINI_KEY) {
       try {
-        const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?key=${GEMINI_KEY}&alt=sse`;
+        const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:streamGenerateContent?key=${GEMINI_KEY}&alt=sse`;
 
-        // Format history into Gemini format
         const contents: any[] = [];
         if (Array.isArray(history)) {
           for (const item of history) {
@@ -316,11 +413,15 @@ export async function POST(req: Request) {
           },
         };
 
-        const geminiRes = await fetch(geminiUrl, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(geminiPayload),
-        });
+        const geminiRes = await fetchWithTimeout(
+          geminiUrl,
+          {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(geminiPayload),
+          },
+          1500
+        );
 
         if (geminiRes.ok && geminiRes.body) {
           const encoder = new TextEncoder();
@@ -376,135 +477,17 @@ export async function POST(req: Request) {
               Connection: "keep-alive",
             },
           });
-        } else {
-          console.warn("Gemini API non-200, falling back to local engine");
         }
-      } catch (geminiErr) {
-        console.warn("Gemini API request failed:", geminiErr);
+      } catch {
+        console.warn("Gemini API timeout/error, falling back to local engine");
       }
     }
 
-    // Fallback to OpenAI Chat Completions if configured
-    const OPENAI_KEY = process.env.OPENAI_API_KEY;
-    if (!OPENAI_KEY) {
-      const fallbackReply = generateFallbackResponse(message);
-      return createSimulatedStreamResponse(fallbackReply);
-    }
-
-    // Build messages array: system, previous conversation, new user message
-    const messages: Array<{ role: string; content: string }> = [
-      { role: "system", content: SYSTEM_PROMPT },
-    ];
-
-    if (Array.isArray(history)) {
-      for (const item of history) {
-        if (item.from === "user")
-          messages.push({ role: "user", content: item.text });
-        else messages.push({ role: "assistant", content: item.text });
-      }
-    }
-
-    messages.push({ role: "user", content: message });
-
-    const payload = {
-      model: process.env.OPENAI_MODEL || "gpt-4o-mini",
-      messages,
-      temperature: Number(process.env.OPENAI_TEMPERATURE || 0.7),
-      top_p: Number(process.env.OPENAI_TOP_P || 0.9),
-      max_tokens: 800,
-      stream: true,
-    };
-
-    const res = await fetch("https://api.openai.com/v1/chat/completions", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: `Bearer ${OPENAI_KEY}`,
-      },
-      body: JSON.stringify(payload),
-    });
-
-    if (!res.ok) {
-      console.warn("OpenAI upstream error, falling back to local engine");
-      const fallbackReply = generateFallbackResponse(message);
-      return createSimulatedStreamResponse(fallbackReply);
-    }
-
-    const encoder = new TextEncoder();
-    const decoder = new TextDecoder();
-
-    const stream = new ReadableStream({
-      async start(controller) {
-        const reader = res.body?.getReader();
-        if (!reader) {
-          controller.close();
-          return;
-        }
-
-        let buffer = "";
-        try {
-          while (true) {
-            const { done, value } = await reader.read();
-            if (done) break;
-
-            buffer += decoder.decode(value, { stream: true });
-            const lines = buffer.split("\n");
-            // Keep the last partial line in the buffer
-            buffer = lines.pop() || "";
-
-            for (const line of lines) {
-              const cleanLine = line.trim();
-              if (!cleanLine) continue;
-              if (cleanLine === "data: [DONE]") continue;
-
-              if (cleanLine.startsWith("data: ")) {
-                try {
-                  const jsonStr = cleanLine.substring(6);
-                  const parsed = JSON.parse(jsonStr);
-                  const content = parsed.choices?.[0]?.delta?.content || "";
-                  if (content) {
-                    controller.enqueue(encoder.encode(content));
-                  }
-                } catch (e) {
-                  // Ignore parse errors for malformed lines
-                }
-              }
-            }
-          }
-          // Process any remaining buffer
-          if (buffer && buffer.startsWith("data: ")) {
-            try {
-              const jsonStr = buffer.substring(6).trim();
-              if (jsonStr !== "[DONE]") {
-                const parsed = JSON.parse(jsonStr);
-                const content = parsed.choices?.[0]?.delta?.content || "";
-                if (content) {
-                  controller.enqueue(encoder.encode(content));
-                }
-              }
-            } catch (e) {
-              // Ignore
-            }
-          }
-        } catch (error) {
-          controller.error(error);
-        } finally {
-          controller.close();
-        }
-      },
-    });
-
-    return new Response(stream, {
-      headers: {
-        "Content-Type": "text/plain; charset=utf-8",
-        "Cache-Control": "no-cache, no-transform",
-        "Connection": "keep-alive",
-      },
-    });
+    // Default fast local knowledge engine fallback
+    const fallbackReply = generateFallbackResponse(message);
+    return createSimulatedStreamResponse(fallbackReply);
   } catch (err: any) {
-    return NextResponse.json(
-      { error: err?.message || String(err) },
-      { status: 500 }
-    );
+    console.error("Chatbot POST Error:", err);
+    return NextResponse.json({ error: err?.message || "Internal server error" }, { status: 500 });
   }
 }
